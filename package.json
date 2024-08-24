@@ -1,0 +1,13 @@
+{
+    "name": "date-after-100-days-from-today",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "add-days": "^2.0.1",
+        "date-fns": "2.19.0",
+        "express": "4.17.1"
+    }
+}
